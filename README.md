@@ -1,5 +1,5 @@
 # NodeJS - Express - Mongo DB - Starter Project 
-Udemig Course Basic Node.js Project
+ Course Basic Node.js Project
 
 ## Packages
 - express 
